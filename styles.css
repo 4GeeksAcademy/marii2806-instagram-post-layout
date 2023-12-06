@@ -65,3 +65,7 @@ img{
 .post-icons img{
     max-width: 24px;
 }
+.fa-ellipsis-vertical
+{
+    display: flex;
+}
